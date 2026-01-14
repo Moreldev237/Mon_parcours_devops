@@ -1,0 +1,55 @@
+bien qu'ils existe plusieurs distributions linux tels que (Ubuntu,Debian,CentOS,Rhell,Fedora,etc..)
+nous allons travaillez avec Ubuntu pour la formation et si vous aviez les autres distributions alors pas de paniques
+
+Nb: moi meme j'ai eu de nombreux probleme pour avoir ubuntu avec ma machine et sachez que meme avec windows vous pouviez utilisez linux en mode SUBSYSTEM.
+il vous suffit juste de taper la commande si dans votre powershell (wsl --install) et suivre les instructions.
+
+Enfin,malgre tout ce que je viens de citer , vous aussi utiliser des machines virtuelles et on ne pourra pas tout citer ici malheureusement.
+
+
+Voici quelques commandes Linux utiles en DevOps, classées par catégories :
+
+
+1.  Surveillance & gestion des ressources
+- top / htop : surveillance des processus
+- free -h : mémoire RAM utilisée
+- df -h : espace disque disponible
+- du -sh : taille d’un dossier
+- uptime : durée d’activité du système
+- ps aux : liste des processus
+
+
+
+2.  Gestion de fichiers & répertoires
+- ls -l : liste les fichiers avec détails
+- cd : changer de répertoire
+- mkdir : créer un dossier
+- rm -rf : supprimer un fichier/dossier
+- cp -r : copier un fichier/dossier
+- mv : déplacer ou renommer
+
+
+
+3.  Utilisateurs & permissions
+- whoami : affiche l'utilisateur courant
+- chmod : modifier les permissions
+- chown : changer le propriétaire
+- adduser / useradd : ajouter un utilisateur
+- passwd : changer mot de passe
+
+
+
+4. 📦 Installation & paquets
+- apt update / apt upgrade (Ubuntu/Debian)
+- yum install / dnf install (RHEL/CentOS)
+- snap install : installer via Snap
+- which / whereis : localiser un binaire
+
+
+
+5.  Réseau
+- ip a : afficher les interfaces
+- ping : tester la connectivité
+- netstat -tulnp : ports ouverts
+- ss -ltn : plus moderne que netstat
+- curl / wget : faire des requêtes HTTP

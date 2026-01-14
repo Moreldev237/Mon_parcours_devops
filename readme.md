@@ -34,11 +34,13 @@ Bienvenue dans mon dépôt DevOps où je documente ma progression, mes apprentis
 
 
 📦 devops-formation/
- # ┣ 📂 docker/
- # ┣ 📂 GithubAction/
- # ┣ 📂 terraform/
- # ┣ 📂 kubernetes/
- # ┣ 📂 scripts/
- # ┣ 📜 README.md
- # ┗ 📜 .gitignore
+ ### ┣ 📂 linux/
+ ### ┣ 📂 Git|Github/
+ ### ┣ 📂 docker/
+ ### ┣ 📂 GithubAction/
+ ### ┣ 📂 terraform/
+ ### ┣ 📂 kubernetes/
+ ### ┣ 📂 scripts/
+ ### ┣ 📜 README.md
+ ### ┗ 📜 .gitignore
 
