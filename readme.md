@@ -32,9 +32,6 @@ graph TB
     F --> G[Monitoring: Prometheus & Grafana]
     G --> H[Sécurité: Trivy & Vault]
     H --> I[🔄 Projet Intégré Final]
-    
-    style A fill:#cce5ff,stroke:#333
-    style I fill:#e6f2ff,stroke:#333
 ```
 
 ## 🔧 Stack Technologique
