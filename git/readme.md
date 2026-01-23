@@ -20,7 +20,7 @@
 
 ## 🎯 Pourquoi Git/GitHub en DevOps?
 
-### **La Réalité DevOps 2024**
+### **La Réalité DevOps 2026**
 ```bash
 # Statistiques clés
 100% des entreprises DevOps utilisent Git
@@ -48,9 +48,6 @@ graph TB
     C --> D[GitOps Operator]
     D --> E{Kubernetes Cluster}
     E --> F[Production]
-    
-    style C fill:#f9f,stroke:#333
-    style D fill:#6bff6b,stroke:#333
 ```
 
 ## 🚀 Workflow Git DevOps
@@ -714,17 +711,6 @@ octokit     # GitHub SDKs
 - [GitHub Community](https://github.com/community/community)
 - [GitLab Forum](https://forum.gitlab.com/)
 - [r/git](https://www.reddit.com/r/git/)
-
-
-
-## 🎯 Prochaines Étapes
-
-Après avoir maîtrisé Git/GitHub, passez à:
-
-1. **[🐳 Docker & Containerization](./03-docker/README.md)**
-2. **[☸️ Kubernetes Fundamentals](./04-kubernetes/README.md)**
-3. **[🏗️ Terraform IaC](./05-terraform/README.md)**
-
 
 
 **⚠️ Rappel Important** : Git n'est pas juste un outil de versioning, c'est le **système nerveux central** de votre pipeline DevOps. Chaque changement d'infrastructure, chaque configuration, chaque déploiement devrait passer par Git.
