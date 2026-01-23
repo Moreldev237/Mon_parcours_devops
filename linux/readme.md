@@ -7,13 +7,6 @@
 ## 📖 Table des Matières
 - [🎯 Pourquoi Linux en DevOps?](#-pourquoi-linux-en-devops)
 - [🚀 Problèmes Résolus](#-problèmes-résolus)
-- [🔧 Compétences Clés](#-compétences-clés)
-- [📁 Structure des Projets Linux](#-structure-des-projets-linux)
-- [🏗️ Projet 1 : Mastery des Commandes](#️-projet-1--mastery-des-commandes)
-- [🔍 Projet 2 : Analyse Système](#-projet-2--analyse-système)
-- [⚙️ Projet 3 : Automatisation Bash](#️-projet-3--automatisation-bash)
-- [🔒 Projet 4 : Sécurité Serveur](#-projet-4--sécurité-serveur)
-- [🐳 Projet 5 : Environnement Docker](#-projet-5--environnement-docker)
 - [📊 Métriques d'Évaluation](#-métriques-dévaluation)
 - [🎓 Pour les Formateurs](#-pour-les-formateurs)
 - [📚 Ressources](#-ressources)
@@ -187,17 +180,7 @@ $ export HISTTIMEFORMAT="%d/%m/%y %T "
 $ sudo apt install htop iotop iftop nmon
 ```
 
----
 
-## 🎯 Prochaines Étapes
-
-Après avoir maîtrisé Linux, passez à:
-
-1. **[🐳 Docker & Conteneurs](./02-docker-basics/README.md)**
-2. **[☸️ Kubernetes Fundamentals](./03-kubernetes/README.md)**
-3. **[🔄 CI/CD avec GitHub Actions](./04-ci-cd/README.md)**
-
----
 
 **⚠️ Rappel Important** : Linux n'est pas un outil optionnel en DevOps, c'est **LA FONDATION**. Tout ce que vous construirez ensuite (containers, Kubernetes, cloud) repose sur ces compétences.
 
