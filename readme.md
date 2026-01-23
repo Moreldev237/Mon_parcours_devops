@@ -18,7 +18,7 @@
 
 ## 🎯 Objectif
 
-Cette roadmap a pour but de transformer un développeur,AdminSys,Inginieur Reseau,etc... en **expert DevOps** à travers des projets pratiques couvrant l'ensemble du cycle de vie des applications. Chaque projet est conçu pour être **production-ready** et enseignable.
+Cette roadmap a pour but de transformer un développeur, AdminSys , Inginieur Reseau , etc... en **expert DevOps** à travers des projets pratiques couvrant l'ensemble du cycle de vie des applications. Chaque projet est conçu pour être **production-ready** et enseignable.
 
 ## 📊 Roadmap Visuelle
 
@@ -33,8 +33,8 @@ graph TB
     G --> H[Sécurité: Trivy & Vault]
     H --> I[🔄 Projet Intégré Final]
     
-    style A fill:#f9f,stroke:#333
-    style I fill:#6bff6b,stroke:#333
+    style A fill:#cce5ff,stroke:#333
+    style I fill:#e6f2ff,stroke:#333
 ```
 
 ## 🔧 Stack Technologique
@@ -357,4 +357,4 @@ Pour des questions ou du support :
 
 **⭐ N'oubliez pas de donner une étoile si ce projet vous a aidé ! ⭐**
 
-*Dernière mise à jour : $(date)*
+![Dernière mise à jour](https://img.shields.io/github/last-commit/Moreldev237/Mon_parcours_devops)
