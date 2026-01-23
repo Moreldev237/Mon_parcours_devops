@@ -497,4 +497,4 @@ source ~/.bashrc
 ---
 **📅 Prochain Module** : [Docker & Containerization](./02-docker-basics/README.md)
 
-*Dernière mise à jour: $(date)*
+![Dernière mise à jour](https://img.shields.io/github/last-commit/Moreldev237/Mon_parcours_devops)
